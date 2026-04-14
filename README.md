@@ -2,6 +2,8 @@
 
 A desktop-based Hotel Management System built using JavaFX to manage rooms, bookings, and customers through an interactive and user-friendly graphical interface.
 
+⸻
+
 
 🚀 Overview
 
@@ -11,6 +13,8 @@ This project automates basic hotel operations such as:
 	•	Checkout and billing
 
 It provides a structured and efficient way to handle hotel data without manual record-keeping.
+
+⸻
 
 
 ✨ Features
@@ -22,6 +26,8 @@ It provides a structured and efficient way to handle hotel data without manual r
 	•	Price per Day
 	•	View room availability status
 
+⸻
+
 
 
 👤 Customer Management
@@ -32,6 +38,8 @@ It provides a structured and efficient way to handle hotel data without manual r
 	•	Display booking details
 
 
+⸻
+
 
 🔄 Booking & Checkout
 	•	Book available rooms
@@ -39,6 +47,8 @@ It provides a structured and efficient way to handle hotel data without manual r
 	•	Checkout with bill calculation
 	•	Automatic room availability update
 
+
+⸻
 
 
 🔍 Additional Features
@@ -50,6 +60,8 @@ It provides a structured and efficient way to handle hotel data without manual r
 	•	✅ Input validation & error handling
 
 
+⸻
+
 
 🛠️ Tech Stack
 	•	Language: Java
@@ -59,6 +71,8 @@ It provides a structured and efficient way to handle hotel data without manual r
 	•	Collections (ObservableList)
 	•	Event Handling
 
+
+⸻
 
 
 ▶️ How to Run
@@ -75,6 +89,8 @@ java --module-path /Users/sanagoel/javafx-sdk-21.0.10/lib \
 -cp out \
 projectsg.project
 
+
+⸻
 
 
 📌 Project Highlights
