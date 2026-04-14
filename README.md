@@ -26,8 +26,6 @@ It provides a structured and efficient way to handle hotel data without manual r
 	•	Price per Day
 	•	View room availability status
 
-⸻
-
 
 
 👤 Customer Management
@@ -38,7 +36,6 @@ It provides a structured and efficient way to handle hotel data without manual r
 	•	Display booking details
 
 
-⸻
 
 
 🔄 Booking & Checkout
